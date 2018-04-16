@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/gubbe.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaac-1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/18_a_dollar.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/BobBg.jpg</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacleft.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacright.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacfront.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacfront_1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacleft_1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/isaacright_1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/Comic sans.spritefont</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/bomb.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/bomb_1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/bomb_2.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/boll.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/Fiende.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/ja.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/MenuSpritw.spritefont</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/menu1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/bakgrund.jpg</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/bakgrund.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/snurr.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/circ.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/sten1.PNG</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/kruka.PNG</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/sten2.PNG</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/hjärta1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/hjärta2.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/boss1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/boss2.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/steve1.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/steve2.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/hög.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/viktigt.jpg</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/key.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/rek.png</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/nyckel.jpg</File>
+    <File>C:/Users/iporo/Downloads/BOB2-20180416T180306Z-001/BOB2/BOB2/Content/explo.png</File>
+  </SourceFiles>
+</SourceFileCollection>

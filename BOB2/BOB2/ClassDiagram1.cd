@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BOB2.GameObject">
+    <Position X="1.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAgAAAAAAAAAAAAAAQgACAEAAAAAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.MovingObject">
+    <Position X="2" Y="4" Width="2" />
+    <InheritanceLine Type="BOB2.GameObject" FixedToPoint="true">
+      <Path>
+        <Point X="2.875" Y="3.459" />
+        <Point X="2.875" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.PhysicalObject">
+    <Position X="2" Y="6.5" Width="2" />
+    <InheritanceLine Type="BOB2.MovingObject" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="6.069" />
+        <Point X="3.25" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAAAAAAAAAAAAAAIAAQAACAAAACAAAAAA=</HashCode>
+      <FileName>PhysicalObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Boll">
+    <Position X="0.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAACAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAQAAAA=</HashCode>
+      <FileName>Boll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Bomb">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAIAAAAAgAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Motståndare">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAgAAQAAAAQAIAAAEAAQAACQUCAAAQAAEA=</HashCode>
+      <FileName>Motståndare.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BOB2.Boss">
+    <Position X="3.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAABAAAIAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Steve">
+    <Position X="5.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAABAAAIAACAAAAAAACAAABAAAAAAA=</HashCode>
+      <FileName>Steve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.SmåMotståndare">
+    <Position X="7.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmåMotståndare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Nyckel">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nyckel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Powerup">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Powerup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.MenuItem">
+    <Position X="6.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAAAAAAAAAAAAAAACAAAAAABACAEAAAAAAAAAAA=</HashCode>
+      <FileName>MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Gubbe">
+    <Position X="11.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQJAoIhAGAgACFAAAAQAAQIAAgQAAAiAAIBAABAAAA=</HashCode>
+      <FileName>Gubbe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOB2.Rektangel">
+    <Position X="6.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAIAACAAAAAAAKAAAAAAACAAA=</HashCode>
+      <FileName>Rektangel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

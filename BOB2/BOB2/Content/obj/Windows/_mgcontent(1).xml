@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/gubbe.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaac-1.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/18_a_dollar.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/BobBg.jpg</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacleft.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacright.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacfront.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacfront_1.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacleft_1.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/isaacright_1.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/Comic sans.spritefont</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/bomb.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/bomb_1.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/bomb_2.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/boll.png</File>
+    <File>C:/Users/eln417/Downloads/BOB2-20180125T072648Z-001/BOB2/BOB2/Content/Fiende.png</File>
+  </SourceFiles>
+</SourceFileCollection>

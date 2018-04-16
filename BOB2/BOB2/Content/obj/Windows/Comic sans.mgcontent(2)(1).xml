@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>I:/rbk/Elevmtrl 03-04/Data/Tatiana/Elevmappar/PROG2221770/eln417/bob2 3-20180201T072028Z-001/bob2 3/BOB2/BOB2/Content/Comic sans.spritefont</SourceFile>
+  <SourceTime>2018-03-16T15:33:25.8540153+01:00</SourceTime>
+  <DestFile>I:/rbk/Elevmtrl 03-04/Data/Tatiana/Elevmappar/PROG2221770/eln417/bob2 3-20180201T072028Z-001/bob2 3/BOB2/BOB2/Content/bin/Windows/Comic sans.xnb</DestFile>
+  <DestTime>2018-03-16T15:33:28.4132712+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

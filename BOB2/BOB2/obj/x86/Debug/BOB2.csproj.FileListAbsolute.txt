@@ -1,0 +1,378 @@
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+c:\users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+C:\Users\eln417\Documents\Visual Studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+C:\Users\eln417\documents\visual studio 2017\Projects\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\eln417\Downloads\BOB2-20180125T072648Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\ja.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\menu1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\MenuSpritw.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\bakgrund.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\snurr.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\circ.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\kruka.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\hög.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\viktigt.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\bob2 3-20180201T072028Z-001\bob2 3\BOB2\BOB2\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bakgrund.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss2.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\circ.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta2.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hög.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\ja.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\kruka.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\menu1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\MenuSpritw.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\snurr.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten2.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve1.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve2.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\viktigt.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csproj.CoreCompileInputs.cache
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\rek.xnb
+C:\Users\iporo\Downloads\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\nyckel.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bakgrund.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss2.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\circ.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta2.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hög.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\ja.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\kruka.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\menu1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\MenuSpritw.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\nyckel.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\rek.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\snurr.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten2.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve1.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve2.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\viktigt.xnb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+C:\Users\eln417\Downloads\BOB2-20180410T142850Z-001-20180412T062252Z-001\BOB2-20180410T142850Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\bakgrund.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\circ.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\hög.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\ja.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\key.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\kruka.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\menu1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\MenuSpritw.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\nyckel.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\rek.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\snurr.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve1.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve2.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\Content\viktigt.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221770\eln417\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\18_a_dollar.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bakgrund.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\BobBg.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boll.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\bomb_2.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\boss2.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\circ.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Comic sans.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\explo.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\Fiende.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\gubbe.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hjärta2.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\hög.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaac-1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacfront_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacleft_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\isaacright_1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\ja.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\kruka.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\menu1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\MenuSpritw.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\nyckel.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\rek.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\snurr.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\sten2.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve1.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\steve2.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\Content\viktigt.xnb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.exe
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\BOB2.pdb
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csprojResolveAssemblyReference.cache
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.csproj.CoreCompileInputs.cache
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.exe
+C:\Users\iporo\Downloads\BOB2-20180416T180306Z-001\BOB2\BOB2\obj\x86\Debug\BOB2.pdb
